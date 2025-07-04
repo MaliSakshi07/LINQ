@@ -1,0 +1,7 @@
+E:\LINQ\02_Select_Query\02_Select_Query\bin\Debug\02_Select_Query.exe.config
+E:\LINQ\02_Select_Query\02_Select_Query\bin\Debug\02_Select_Query.exe
+E:\LINQ\02_Select_Query\02_Select_Query\bin\Debug\02_Select_Query.pdb
+E:\LINQ\02_Select_Query\02_Select_Query\obj\Debug\02_Select_Query.csproj.AssemblyReference.cache
+E:\LINQ\02_Select_Query\02_Select_Query\obj\Debug\02_Select_Query.csproj.CoreCompileInputs.cache
+E:\LINQ\02_Select_Query\02_Select_Query\obj\Debug\02_Select_Query.exe
+E:\LINQ\02_Select_Query\02_Select_Query\obj\Debug\02_Select_Query.pdb
